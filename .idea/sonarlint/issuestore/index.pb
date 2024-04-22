@@ -70,3 +70,5 @@ G.idea/sonarlint/issuestore/2/a/2afbb999f001938c88fa43fc2ef52abf0f8213e4,5\1\51
 Q.idea/sonarlint/securityhotspotstore/d/b/dbcff70658daf80b53ce624f6adcaa529df5ed8d,e\c\ec4317fc3093e8c354ef226260d7fd566c3957fb
 w
 G.idea/sonarlint/issuestore/7/4/749edfcc96398253e5b3416184e95c46621da850,d\4\d4115e7e13112fe372c450a6354345d7e7531a57
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
