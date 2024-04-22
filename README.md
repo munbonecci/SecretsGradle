@@ -40,4 +40,5 @@ including use cases and view model to obtain the data
 - Clone the repository
 - Open it in Android Studio
 - Wait until dependencies are installed
+- Add your keys in local properties (apiKey="Hello world")
 - Run app in your emulator or physical device
